@@ -1,0 +1,11 @@
+include ':m_user'
+include ':m_community'
+include ':m_more'
+include ':m_home'
+include ':m_main'
+include ':lib_net'
+include ':lib_sm'
+include ':lib_common'
+include ':lib_base'
+include ':app'
+rootProject.name = "MvvmTest"

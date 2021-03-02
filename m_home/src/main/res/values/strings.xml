@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello_daily_fragment">Hello daily fragment</string>
+    <string name="hello_discover_fragment">Hello discover fragment</string>
+    <string name="hello_nominate_fragment">Hello nominate fragment</string>
+</resources>
